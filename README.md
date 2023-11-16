@@ -1,7 +1,7 @@
 # digital-radio
 
 * Digital Radio | Signals and Systems
-  * Developed a digital radio that with the specified frequency the user wants to hear will play that radio channel
+  * Developed a digital radio that plays a radio channel given the specified frequency by user
   * Utilized Matlab, band-pass filter, frequency shifting to human audible frequency range using fourier transform, 10 second of all signals recorded on air with 480KHz sampling rate as input
 
 ![image](https://github.com/amirbelbasi/digital-radio/assets/58425120/ecfa47bb-94d9-49f3-8132-f92f4f749ae9)
