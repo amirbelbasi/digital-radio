@@ -11,5 +11,3 @@
 ![image](https://github.com/amirbelbasi/digital-radio/assets/58425120/504bd29d-fa80-41cb-a591-425beaac1554)
 
 ![image](https://github.com/amirbelbasi/digital-radio/assets/58425120/f637bfca-39dd-4d20-b8cd-e7a04d92654c)
-
-![image](https://github.com/amirbelbasi/digital-radio/assets/58425120/43f34221-d156-476e-996d-d3130579668e)
